@@ -1,7 +1,7 @@
 import streamlit as st
 st.title ("Mi primera app")
 
-from PIL import image 
+from PIL import Image 
 
 
 st.header("En este espacio comienzo a crear mis apps para interfaces multimodales.")
